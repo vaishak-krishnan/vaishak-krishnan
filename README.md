@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @vaishak-krishnan
 - 👀 I’m interested in Frontend Development
+- 👩‍💻 MEAN Stack Developer
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me ...
