@@ -4,6 +4,8 @@
 - 🌱 I’m currently learning MERN Stack
 - 💞️ I’m looking to collaborate on MERN
 - 📫 How to reach me ...
+-  https://www.linkedin.com/in/vaishakkrishnan/
+-  vaishak.krishnan@gmail.com
 
 <!---
 vaishak-krishnan/vaishak-krishnan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
