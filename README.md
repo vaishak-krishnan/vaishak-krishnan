@@ -2,7 +2,7 @@
 - 👀 I’m interested in Frontend Development
 - 👩‍💻 MEAN Stack Developer
 - 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MERN
+- 💞️ I’m looking to collaborate on MEAN and MERN Stacks
 - 📫 How to reach me ...
 -  https://www.linkedin.com/in/vaishakkrishnan/
 -  vaishak.krishnan@gmail.com
