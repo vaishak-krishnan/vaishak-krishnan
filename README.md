@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @vaishak-krishnan
 - 👀 I’m interested in Frontend Development
-- 👩‍💻 MEAN Stack Developer
-- 🌱 I’m currently learning MERN Stack
-- 💞️ I’m looking to collaborate on MEAN and MERN Stacks
+- 👩‍💻 MEAN Stack Developer | AI/ML Researcher
+- 🌱 I’m currently learning Deep learning
+- 💞️ I’m looking to collaborate on MEAN and MERN Stacks and Deep learning projects
 - 📫 How to reach me ...
 -  https://www.linkedin.com/in/vaishakkrishnan/
 -  vaishak.krishnan@gmail.com
