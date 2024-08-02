@@ -41,11 +41,11 @@
 
 ### Projects:
 
-- **[Solar Panel Analysis](#)** - Analyzing tilt and orientation for optimal solar panel efficiency.
-- **[Image Classification](#)** - Implemented deep learning models for image classification tasks.
-- **[Deep-Learning-Architectures](#)** - Exploring and implementing various deep learning architectures.
-- **[AQI-IOT](#)** - Monitoring and analyzing air quality index data using IoT devices.
-- **[ICTK-Learner-Tracker-Production-Group-5](#)** - Developing a learner tracking system for ICTK.
+- **[Solar Panel Analysis](https://github.com/vaishak-krishnan/Data-Analysis-of-Tilt-and-Orientation-of-solar-panels-IBM-SkilsBuild-Internship)** - Analyzing tilt and orientation for optimal solar panel efficiency.
+- **[Image Classification](https://github.com/vaishak-krishnan/Cat-Vs-Dog-Image-Classification-Project-Deep-Learning-Project-CNN-Project-NITK)** - Implemented deep learning models for image classification tasks.
+- **[Deep-Learning-Architectures](https://github.com/vaishak-krishnan/Deep-Learning-Architectures)** - Exploring and implementing various deep learning architectures.
+- **[AQI-IOT](https://github.com/vaishak-krishnan/AQI-IOT)** - Monitoring and analyzing air quality index data using IoT devices.
+- **[ICTK-Learner-Tracker-Production-Group-5](https://github.com/vaishak-krishnan/ICTK-Learner-Tracker-Production-Group-5)** - Developing a learner tracking system for ICTK.
 
 ---
 
