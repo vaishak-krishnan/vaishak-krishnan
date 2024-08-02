@@ -26,6 +26,16 @@
 
 ---
 
+### Currently Researching:
+
+🔍 **Machine Learning**  
+🧠 **Deep Learning**  
+📸 **Computer Vision**  
+📊 **Big Data Analytics**  
+🌐 **IoT**
+
+---
+
 ### My Skills and Interests:
 
 - **Frontend Development:**
@@ -125,4 +135,4 @@
 
 ### Hashtags:
 
-#AI #ML #DeepLearning #ComputerVision #FrontendDevelopment #MEANStack #MERNStack #DataScience #MachineLearning #NeuralNetworks #Tech #Coding #WebDevelopment
+#AI #ML #DeepLearning #ComputerVision #BigData #IoT #FrontendDevelopment #MEANStack #MERNStack #DataScience #MachineLearning #NeuralNetworks #Tech #Coding #WebDevelopment
